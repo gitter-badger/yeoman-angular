@@ -1,4 +1,5 @@
 # LiveCoding avec Yeoman & AngularJS
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Swiip/yeoman-angular?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Ce repo contient les [slides](tree/master/slides) et le [code source](tree/master/client) d'un live coding que j'ai donné à quelques reprises, notamment au [LyonJS](http://lyonjs.org), au [DevoxxFR 2013](http://www.devoxx.com/pages/viewpage.action?pageId=6817513) et au [Mix-IT 2013](http://www.mix-it.fr/session/149/live-coding-avec-yeoman-angularjs).
 
